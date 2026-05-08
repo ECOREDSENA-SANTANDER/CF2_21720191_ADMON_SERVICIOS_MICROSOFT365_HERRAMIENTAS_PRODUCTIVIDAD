@@ -5,7 +5,16 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Titulo de primer nivel
+        h1 El ecosistema de Microsoft 365 en las organizaciones 4.0
+        
+      Separador
+      #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.1 De la ofimática tradicional a la productividad en la nube
+      
+      Separador
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+        h2 1.2 Importancia de la gestión de la información en la cuarta revolución industrial
+      
         
 
   </template>

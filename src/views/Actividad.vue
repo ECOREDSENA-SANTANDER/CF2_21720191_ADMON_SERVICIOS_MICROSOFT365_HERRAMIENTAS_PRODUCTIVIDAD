@@ -22,485 +22,740 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
-      barajarPreguntas: false,
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos y procesos fundamentales relacionados con la administración estratégica del correo electrónico Outlook 365, la gestión de contactos y el uso del calendario, las tareas y las notas en contextos colaborativos.',
+      barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Qué caracteriza el paso de la ofimática tradicional a la productividad en la nube en Microsoft 365?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto:
+                'El uso exclusivo de archivos locales sin conexión a internet.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Seleccionar y editar capas que identifican márgenes, pistas y componentes.',
+                'La colaboración en tiempo real, la sincronización en múltiples dispositivos y la integración de servicios.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Ajustar automáticamente las pistas de cada componente.',
+              texto:
+                'La eliminación del correo electrónico como canal de trabajo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Modificar el tamaño de los componentes.',
+              texto:
+                'La dependencia de archivadores físicos para compartir información.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de los conceptos relacionados con la productividad en la nube y la integración de servicios de Microsoft 365.',
           mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la productividad en la nube y el ecosistema Microsoft 365.',
         },
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            'Frente a la infoxicación, ¿qué competencia resulta más valiosa en las organizaciones 4.0?',
+          imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Layer</em>',
+              texto:
+                'Memorizar toda la información recibida durante la jornada.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '<em>Auto</em>',
+              texto: 'Revisar el correo de manera reactiva cada pocos minutos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Text</em>',
-              esCorrecta: true,
+              texto:
+                'Aumentar la cantidad de notificaciones para no perder ningún dato.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
-              esCorrecta: false,
+              texto:
+                'Filtrar, organizar, priorizar y responder adecuadamente a la información.',
+              esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de los conceptos relacionados con la gestión estratégica de la información y la mitigación de la sobrecarga informativa.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la infoxicación y la priorización de la información digital.',
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: '@/assets/actividad/imagen1.png',
+          texto:
+            'Dentro del componente formativo, Microsoft Outlook 365 se comprende principalmente como:',
+          imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para borrar conexiones.',
+              texto:
+                'Un simple lector de correspondencia sin relación con otras herramientas.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Para cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+                'Un editor de textos orientado exclusivamente a documentos formales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Para agregar nuevas capas.',
-              esCorrecta: false,
+              texto:
+                'Un centro de mando unificado para gestionar comunicaciones, tareas y calendario.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Para resaltar conexiones de pines.',
-              esCorrecta: true,
+              texto:
+                'Una herramienta exclusiva para videollamadas corporativas.',
+              esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la función sistémica de Outlook 365 dentro del ecosistema de productividad corporativa.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con Outlook 365 como plataforma integrada de trabajo.',
         },
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen1.png',
+            '¿Qué característica debe tener el asunto de un correo corporativo bien estructurado?',
+          imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '<em>Text</em>',
-              esCorrecta: false,
+              texto: 'Ser descriptivo y conciso.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '<em>Layer</em>',
+              texto:
+                'Contener saludos informales para acercarse al destinatario.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: '<em>Board</em>',
-              esCorrecta: true,
+              texto: 'Reemplazar completamente el cuerpo del mensaje.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '<em>Route</em>',
+              texto:
+                'Incluir una sola palabra genérica como contexto principal.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de los criterios de netiqueta y estructura formal del correo electrónico corporativo.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el asunto y la redacción profesional del correo.',
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto:
+            'En un envío profesional o académico, el campo CC se utiliza para:',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Enrutar manualmente las pistas que no se ajustaron automáticamente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Resaltar las conexiones de los pines.',
+              texto: 'Ocultar la identidad de los destinatarios secundarios.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Mantener informadas a otras personas sobre el mensaje enviado.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Crear una nueva capa en el diseño.',
+              texto: 'Bloquear automáticamente las respuestas al remitente.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Cambiar de ventana entre <em>Schematic</em> y <em>Board</em>.',
+                'Enviar archivos adjuntos de gran tamaño sin restricciones.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio del uso pedagógico y profesional de los campos de destinatario en un correo electrónico.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los campos “Para” y “CC” en la comunicación formal.',
         },
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+            '¿Cuál es el propósito del método Inbox Zero adaptado a Outlook 365?',
+          imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Borrar componentes.',
+              texto:
+                'Borrar todos los correos sin analizarlos para liberar espacio.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ajustar automáticamente las pistas en cada componente.',
-              esCorrecta: true,
+              texto:
+                'Mantener la bandeja vacía por obligación sin procesar mensajes.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Crear nuevas conexiones de pines.',
-              esCorrecta: false,
+              texto:
+                'Procesar cada correo de manera consciente para decidir qué hacer con él.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Seleccionar y editar capas.',
+              texto:
+                'Evitar el uso de carpetas, categorías y reglas de automatización.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la organización consciente de la bandeja de entrada y del procesamiento estratégico del correo.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con Inbox Zero y la gestión avanzada de la bandeja de entrada.',
         },
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: '@/assets/actividad/imagen2.png',
+            '¿Qué aportan las categorías por código de colores a la gestión del correo electrónico?',
+          imagen: '@/assets/actividad/imagen7.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Colocar los componentes en un solo bloque.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Agrupar los componentes en bloques funcionales.',
+              texto:
+                'Permiten una clasificación visual transversal que agiliza la búsqueda.',
               esCorrecta: true,
             },
             {
+              id: 'b',
+              texto:
+                'Reemplazan la necesidad de redactar asuntos claros en los mensajes.',
+              esCorrecta: false,
+            },
+            {
               id: 'c',
-              texto: 'Alinear todos los terminales a la derecha.',
+              texto: 'Eliminan todas las notificaciones del sistema de correo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Colocar los terminales lo más alejados posible.',
+              texto:
+                'Convierten automáticamente los correos en reuniones de calendario.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la clasificación visual y de la organización transversal de la información en Outlook 365.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con categorías y etiquetas por colores.',
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
-          imagen: '@/assets/actividad/imagen2.png',
+          texto: 'Una regla de automatización en Outlook 365 se define como:',
+          imagen: '@/assets/actividad/imagen8.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto:
+                'Una contraseña temporal para validar el inicio de sesión.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto:
+                'Un mensaje prediseñado para responder siempre del mismo modo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto:
+                'Una instrucción condicional que ejecuta acciones automáticas sobre los correos.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto:
+                'Un tipo especial de archivo adjunto protegido en la nube.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la automatización de flujos de trabajo mediante reglas en Outlook 365.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con reglas de automatización y pasos rápidos.',
         },
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: '@/assets/actividad/imagen3.png',
+            'Según el proceso de decisión frente a un correo nuevo, si el mensaje es accionable y toma menos de dos minutos, lo más adecuado es:',
+          imagen: '@/assets/actividad/imagen9.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Archivarlo para revisarlo al final de la semana.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Responder de inmediato.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto: 'Imprimirlo para conservar evidencia física.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Convertirlo siempre en una nota sin atender el requerimiento.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio del proceso de toma de decisiones frente a correos accionables y de respuesta rápida.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con el diagrama de gestión de correos nuevos.',
         },
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Qué finalidad cumple una firma corporativa bien diseñada en Outlook 365?',
+          imagen: '@/assets/actividad/imagen10.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto:
+                'Ocultar la identidad del usuario para proteger su privacidad.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Impedir el uso de archivos adjuntos en el correo electrónico.',
               esCorrecta: false,
             },
+            {
+              id: 'c',
+              texto:
+                'Reemplazar el asunto del mensaje en las comunicaciones formales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Estandarizar la presentación profesional y los datos de contacto.',
+              esCorrecta: true,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la proyección de identidad profesional mediante la firma corporativa.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la firma de correo electrónico y su propósito institucional.',
         },
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: '@/assets/actividad/imagen3.png',
+            '¿Para qué se configuran las respuestas automáticas en Outlook 365?',
+          imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Para reenviar todos los mensajes a otro buzón de manera permanente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Para informar la ausencia y orientar sobre alternativas de contacto.',
               esCorrecta: true,
             },
+            {
+              id: 'c',
+              texto:
+                'Para eliminar automáticamente los correos no leídos de la bandeja.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Para clasificar los contactos por cargo y departamento.',
+              esCorrecta: false,
+            },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la gestión de expectativas comunicativas mediante respuestas automáticas.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la configuración de mensajes fuera de la oficina.',
         },
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+            '¿Qué ventaja principal ofrece la creación de una lista de contactos en Outlook 365?',
+          imagen: '@/assets/actividad/imagen2.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Guardar copias locales de los correos en el equipo del usuario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Reemplazar completamente el calendario institucional.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Reunir varias direcciones bajo un alias para facilitar envíos recurrentes.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Impedir la actualización posterior de los miembros del grupo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio del trabajo colaborativo mediante listas de contactos y grupos de distribución.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la creación y administración de listas de contactos.',
+        },
+        {
+          id: 13,
+          texto:
+            'La integración de Outlook 365 con el directorio global de la organización permite:',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Buscar instructores o personal sin agregarlos manualmente.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Eliminar por completo la libreta de direcciones del usuario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Usar Outlook 365 sin conexión a internet ni sincronización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Compartir contraseñas entre los miembros del equipo.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Falso',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la interconectividad institucional y del uso del directorio global en Microsoft 365.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con contactos, personas y directorio global.',
         },
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+            '¿Qué diferencia correctamente una cita de una reunión en el calendario de Microsoft 365?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'La cita convoca participantes y la reunión bloquea solo tiempo personal.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'La reunión no admite invitaciones ni confirmaciones de asistencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Ambas se utilizan exclusivamente para marcar días festivos institucionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'La cita bloquea tiempo personal y la reunión involucra a otros participantes.',
               esCorrecta: true,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la distinción operativa entre citas y reuniones en la gestión del calendario.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con los tipos de eventos del calendario interactivo.',
         },
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: '@/assets/actividad/imagen4.png',
+            '¿Cuándo resulta más pertinente utilizar un evento de todo el día en el calendario?',
+          imagen: '@/assets/actividad/imagen5.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto:
+                'Cuando se agenda una llamada de quince minutos con un compañero.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Cuando se requiere marcar un hito o fecha sin horario específico.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Cuando se necesita adjuntar un documento al correo del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Cuando el evento solo involucra a una persona del equipo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio del uso de eventos de todo el día para la gestión de hitos y fechas relevantes.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con citas, reuniones y eventos de todo el día.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Para qué sirve el asistente para programación de Outlook 365?',
+          imagen: '@/assets/actividad/imagen6.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Para superponer agendas y encontrar horarios comunes para una reunión.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Para convertir mensajes de correo en tareas asignables automáticamente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Para cambiar la zona horaria del dispositivo del usuario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Para crear categorías por colores en el calendario y el correo.',
               esCorrecta: false,
             },
           ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la coordinación eficiente de reuniones mediante el asistente para programación.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la programación colaborativa de eventos.',
+        },
+        {
+          id: 17,
+          texto:
+            'En la administración de tareas, ¿qué error común ayuda a corregir Outlook 365?',
+          imagen: '@/assets/actividad/imagen7.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Usar el calendario para programar sesiones sincrónicas con el equipo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Asignar fechas de vencimiento y recordatorios a las actividades.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Utilizar la bandeja de entrada como lista permanente de pendientes.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'Compartir actas de reunión con los participantes del proyecto.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la conversión del correo en acciones concretas dentro de la herramienta de tareas.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la administración de tareas y el seguimiento de proyectos.',
+        },
+        {
+          id: 18,
+          texto:
+            'Según el principio de la “acción siguiente”, una tarea debe redactarse como:',
+          imagen: '@/assets/actividad/imagen8.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Una instrucción clara, medible y ejecutable.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto:
+                'Un proyecto amplio y abstracto sin delimitación operativa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'Una cadena de correos acumulados dentro de la bandeja de entrada.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Una idea general sin fecha, contexto ni responsable.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la formulación efectiva de tareas orientadas a la ejecución y al seguimiento.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la redacción de tareas y la acción siguiente.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué valor aportan las notas digitales integradas con Outlook 365 y OneNote?',
+          imagen: '@/assets/actividad/imagen9.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Sustituyen completamente al calendario y a las reuniones del proyecto.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Sirven para capturar conocimiento y documentar acuerdos de forma ágil.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto:
+                'Solo almacenan imágenes y no permiten registrar texto o decisiones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Bloquean la escritura colaborativa durante las sesiones de trabajo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la captura ágil de conocimiento y de las actas dinámicas de reunión.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con notas digitales y documentación colaborativa.',
+        },
+        {
+          id: 20,
+          texto:
+            'En las estrategias pedagógicas apoyadas en Outlook 365, un entorno digital organizado favorece principalmente:',
+          imagen: '@/assets/actividad/imagen10.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'La dependencia permanente del instructor para recordar cada actividad.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'La improvisación constante en la gestión del tiempo y los entregables.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La autogestión y la metacognición del aprendiz.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto:
+                'La eliminación del trabajo colaborativo entre los integrantes del equipo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Demuestra un adecuado dominio de la relación entre organización digital, aprendizaje autónomo y metacognición.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con las estrategias pedagógicas apoyadas en Outlook 365.',
         },
       ],
-      mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
+      mensaje_final_aprobado:
+        'Ha superado la actividad y demuestra sólidos conocimientos sobre la administración de la mensajería, los contactos, el calendario y las herramientas complementarias de Outlook 365.',
       mensaje_final_reprobado:
-        'Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
-    },
-    parrafo: {
-      tema: 'Comprendiendo el diseño de presupuestos y estrategias de ahorro',
-      titulo: 'Completar frases',
-      introduccion:
-        '<b> Objetivo:</b> identificar conceptos clave relacionados con el presupuesto personal, la cultura del ahorro y la planificación financiera.',
-      instruccion:
-        'Complete correctamente los enunciados con la palabra que falta según los contenidos estudiados en el componente formativo.',
-      imagen: '@/assets/actividad/imagen1.png',
-      barajarPreguntas: true,
-      textos: [
-        {
-          id: 1,
-          texto:
-            'El [respuesta] personal es una herramienta que permite proyectar ingresos y egresos para mantener la estabilidad económica.',
-          respuesta: 'presupuesto',
-        },
-        {
-          id: 2,
-          texto:
-            'La constancia en el cumplimiento del presupuesto refleja un alto nivel de [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 3,
-          texto:
-            'Ahorrar no es lo que sobra, sino lo que se [respuesta] guardar antes de gastar.',
-          respuesta: 'planifica',
-        },
-        {
-          id: 4,
-          texto:
-            'Un gasto innecesario que puede eliminarse sin afectar la calidad de vida básica se denomina gasto [respuesta].',
-          respuesta: 'discrecional',
-        },
-        {
-          id: 5,
-          texto:
-            'La cultura del ahorro promueve el uso responsable de los [respuesta] disponibles.',
-          respuesta: 'recursos',
-        },
-        {
-          id: 6,
-          texto:
-            'El estado de [respuesta] personales permite analizar la relación entre ingresos y egresos en un periodo determinado.',
-          respuesta: 'resultados',
-        },
-        {
-          id: 7,
-          texto:
-            'Cuando los ingresos son mayores que los egresos se generan una [respuesta] que puede destinarse al ahorro.',
-          respuesta: 'utilidad',
-        },
-        {
-          id: 8,
-          texto:
-            'Uno de los beneficios de ejecutar un presupuesto es la reducción del [respuesta] financiero.',
-          respuesta: 'estrés',
-        },
-        {
-          id: 9,
-          texto:
-            'Evitar gastos impulsivos y mantener límites presupuestales refleja [respuesta] financiera.',
-          respuesta: 'disciplina',
-        },
-        {
-          id: 10,
-          texto:
-            'Contar con un fondo de [respuesta] permite enfrentar gastos inesperados sin afectar el presupuesto.',
-          respuesta: 'emergencia',
-        },
-      ],
+        'No ha superado la actividad. Se recomienda volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
   }),
 }
