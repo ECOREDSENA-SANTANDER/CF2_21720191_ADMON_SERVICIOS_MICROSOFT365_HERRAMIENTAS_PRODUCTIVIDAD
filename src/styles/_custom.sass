@@ -51,6 +51,49 @@ figcaption
     font-weight: normal !important
 .banner-interno__fondo
   background-image: url('@/assets/curso/portada/fondo-banner-interno.svg') !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  border: none !important
+  background-color: $color-acento-botones !important
+.slyder-a__bullets__item
+    border: none !important
+    background-color: #fff
+.slyder-a__bullets__item--active 
+    border: none !important
+    background-color: $color-acento-botones
+.titulo-tercer-nivel
+  width: fit-content
+  max-width: 100%
+  position: relative
+  display: inline-flex
+  align-items: center
+  background-color: $color-primario
+  padding-right: 16px
+  padding-left: 52px
+  min-height: 60px
+  border-bottom: 3px solid #E5EDF3
+
+  @media screen and (max-width: $bp-min-md)
+    padding-left: 0px
+
+
+  &__icon
+    position: absolute
+    left: -10px
+    top: 50%
+    transform: translateY(-50%)
+    width: 65px
+    max-width: 65px
+    height: auto
+
+    @media screen and (max-width: $bp-min-md)
+      display: none
+
+  &__text
+    margin: 0
+    margin: 0 15px 0 15px
+    white-space: normal
+    word-break: break-word
+    color: $white !important
 
 /**************************************************************/
 /***CUSTOM STYLES***/
@@ -62,18 +105,30 @@ figcaption
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-image: url('@/assets/curso/bg/2.png') !important
 .bg-color
   &-1
-    color: $color-primario !important
-
+    background-color: $color-acento-contenido !important
+  &-2
+    background-color: #E6EDE9 !important
+  &-3
+    background-color: #062F18 !important
+  &-4
+    background-color: #E5EDF3 !important
 .br
   &-1
     border-radius: 10px !important
+  &-2
+    border-radius: 20px !important
 
-.ml-cus
+.mg-cus
   &-1
-    margin-left: 30px !important
-      
+    margin-top: 40px !important
+.pg-cus
+  &-1
+    padding: 3rem !important;         
 .hcard
   &-1
     height: 750px !important
@@ -88,6 +143,12 @@ figcaption
 @media screen and (max-width: $bp-min-xxl)
   .mb-cus
     margin-bottom: 2em  !important 
+  .mg-cus
+    &-1
+      margin-top: 20px !important
+  .pg-cus
+    &-1
+      padding: 1.5rem !important; 
 
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
@@ -97,13 +158,16 @@ figcaption
     width: 90% !important
   .bloque-texto-g 
         padding-top: 50px !important;
-  
+  .mg-cus
+    &-1
+      margin-top: 0px !important
+   
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
- 
+  
 
 //// MOBILE 576--------------------------------------
 @media screen and (max-width: $bp-min-sm)
@@ -111,3 +175,4 @@ figcaption
     margin-bottom: 2em  !important
   .bloque-texto-g 
         padding-top: 20px !important;
+  
