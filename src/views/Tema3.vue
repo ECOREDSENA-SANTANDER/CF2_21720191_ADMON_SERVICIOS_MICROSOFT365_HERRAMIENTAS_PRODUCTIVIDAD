@@ -90,7 +90,7 @@
 
   </template>
 <script>
-import podcast from '@/assets/actividad/audio/success.mp3'
+import podcast from '@/assets/curso/temas/t3/podcast.mp3'
 export default {
   name: 'Tema1',
   data: () => ({
