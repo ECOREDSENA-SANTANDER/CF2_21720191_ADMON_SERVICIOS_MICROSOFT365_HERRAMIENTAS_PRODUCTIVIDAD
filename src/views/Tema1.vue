@@ -7,7 +7,7 @@
           span 1
         h1 El ecosistema de Microsoft 365 en las organizaciones 4.0
       img.mb-5(src='@/assets/curso/temas/t1/1.png', alt='')(data-aos='fade-right')  
-      p.mb-0(data-aos='fade-right') La cuarta revolución industrial, o Industria 4.0, ha redefinido los paradigmas de producción, comunicación y educación a nivel global. En este contexto, el software ha evolucionado de ser una herramienta instalada de manera aislada en un equipo físico a convertirse en un ecosistema interconectado en la nube. Comprender esta transición es el primer paso para dominar las herramientas de productividad contemporáneas y alinearlas con los resultados de aprendizaje proyectados para la formación profesional integral. 
+      p.mb-0(data-aos='fade-right') La cuarta revolución industrial, o Industria 4.0, ha redefinido los paradigmas de producción, comunicación y educación a nivel global. En este contexto, el #[i software] ha evolucionado de ser una herramienta instalada de manera aislada en un equipo físico a convertirse en un ecosistema interconectado en la nube. Comprender esta transición es el primer paso para dominar las herramientas de productividad contemporáneas y alinearlas con los resultados de aprendizaje proyectados para la formación profesional integral. 
       
       
       

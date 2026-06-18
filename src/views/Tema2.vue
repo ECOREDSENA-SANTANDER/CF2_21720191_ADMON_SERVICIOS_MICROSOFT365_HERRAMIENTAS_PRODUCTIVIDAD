@@ -36,7 +36,7 @@
               .col-sm-12.col-lg-8
                 .bg-color-3.p-2.mb-3
                   h4.mb-0.text-white Ejemplo aplicado a la formación profesional
-                p.mb-0 En un programa de formación técnica en desarrollo de software, un grupo de aprendices debe entregar el avance de un sitio web. Al utilizar Outlook 365, el líder del equipo redacta un correo dirigido al instructor (campo “Para”), pone en copia a los miembros de su equipo para mantenerlos informados de la entrega (campo “CC”), y estructura el cuerpo del mensaje detallando los logros del sprint y los enlaces al repositorio del código. Este uso reflexivo de los campos de destinatario no solo cumple con el envío de la tarea, sino que evidencia habilidades de comunicación organizacional y trabajo colaborativo, competencias altamente demandadas en el sector tecnológico.
+                p.mb-0 En un programa de formación técnica en desarrollo de #[i software], un grupo de aprendices debe entregar el avance de un sitio web. Al utilizar Outlook 365, el líder del equipo redacta un correo dirigido al instructor (campo “Para”), pone en copia a los miembros de su equipo para mantenerlos informados de la entrega (campo “CC”), y estructura el cuerpo del mensaje detallando los logros del #[i sprint] y los enlaces al repositorio del código. Este uso reflexivo de los campos de destinatario no solo cumple con el envío de la tarea, sino que evidencia habilidades de comunicación organizacional y trabajo colaborativo, competencias altamente demandadas en el sector tecnológico.
 
 
 
@@ -106,7 +106,7 @@
                   .lista-ol--cuadro__vineta.v--green
                     span.text-bold B 
                   p.mb-0 Si el asunto contiene la palabra “Cambios diseño” o el remitente es el dominio del cliente, asignar categoría “Prioridad alta - cliente” y generar un sonido de notificación específico.
-              p.mb-0 A través de este proceso, el estudiante no solo aprende a usar una función de software, sino que asimila conceptos de automatización de flujos de trabajo (workflow), optimizando radicalmente su productividad.
+              p.mb-0 A través de este proceso, el estudiante no solo aprende a usar una función de #[i software], sino que asimila conceptos de automatización de flujos de trabajo (#[i workflow]), optimizando radicalmente su productividad.
 
             .col-sm-12.col-lg-4.d-none.d-lg-block
               img(src='@/assets/curso/temas/t2/9.svg', alt='')
@@ -134,9 +134,9 @@
               img(src='@/assets/curso/temas/t2/13.svg', alt='')
             .col-sm-12.col-lg-10
               p.mb-0 El entorno de trabajo virtual debe adaptarse a las necesidades ergonómicas y funcionales del usuario, y no al contrario. La configuración de Microsoft Outlook 365 trasciende el aspecto estético, impactando en la eficiencia operativa. Ajustar la vista de lectura (panel a la derecha o en la parte inferior), establecer la densidad de visualización de los mensajes y configurar las notificaciones de escritorio son acciones que permiten personalizar la experiencia de usuario (UX) para reducir la fatiga visual y cognitiva durante las jornadas de formación o trabajo remoto.
-          p.mb-0 Un aspecto crítico de la automatización y la proyección de identidad profesional es la firma de correo electrónico. Una firma corporativa bien diseñada funciona como una tarjeta de presentación digital estandarizada que otorga credibilidad e institucionalidad a las comunicaciones. Pedagógicamente, instruir al aprendiz en la creación de una firma que contenga su nombre completo, programa de formación, ficha asignada y datos de contacto, fomenta la formalidad y el respeto por los canales institucionales.
+          p.mb-0 Un aspecto crítico de la automatización y la proyección de identidad profesional es la #[b firma de correo electrónico]. Una firma corporativa bien diseñada funciona como una tarjeta de presentación digital estandarizada que otorga credibilidad e institucionalidad a las comunicaciones. Pedagógicamente, instruir al aprendiz en la creación de una firma que contenga su nombre completo, programa de formación, ficha asignada y datos de contacto, fomenta la formalidad y el respeto por los canales institucionales.
         
-      p.mb-0(data-aos='fade-right') Asimismo, la funcionalidad de respuestas automáticas (fuera de la oficina) resulta fundamental para la gestión de las expectativas de comunicación. En el entorno laboral real, un profesional debe informar cuando no se encuentra disponible (por vacaciones, incapacidades o periodos de inmersión profunda en proyectos) para evitar cuellos de botella en la información. Enseñar al estudiante a configurar estos mensajes automáticos, redactándolos con un tono profesional e indicando alternativas de contacto durante su ausencia, es una práctica que fortalece su inteligencia emocional y sus habilidades de comunicación asertiva.
+      p.mb-0(data-aos='fade-right') Asimismo, la funcionalidad de #[b respuestas automáticas] (fuera de la oficina) resulta fundamental para la gestión de las expectativas de comunicación. En el entorno laboral real, un profesional debe informar cuando no se encuentra disponible (por vacaciones, incapacidades o periodos de inmersión profunda en proyectos) para evitar cuellos de botella en la información. Enseñar al estudiante a configurar estos mensajes automáticos, redactándolos con un tono profesional e indicando alternativas de contacto durante su ausencia, es una práctica que fortalece su inteligencia emocional y sus habilidades de comunicación asertiva.
   </template>
 
 <script>

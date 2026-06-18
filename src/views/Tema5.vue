@@ -12,7 +12,7 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/1.png')})` }")
         
         .bloque-texto-g__texto.p-4
-          p.mb-0   El dominio aislado de las funciones de correo, contactos, calendarios, tareas y notas carece de impacto si no se articula en una estrategia unificada de trabajo. La formación profesional integral del SENA busca que el aprendiz trascienda el rol de “operador de software” para convertirse en un “solucionador de problemas” mediante el uso de la tecnología. Esta sección demuestra cómo las herramientas de Microsoft 365 convergen para dar respuesta a necesidades reales en el aprendizaje virtual, el trabajo remoto y la gestión de proyectos digitales.
+          p.mb-0   El dominio aislado de las funciones de correo, contactos, calendarios, tareas y notas carece de impacto si no se articula en una estrategia unificada de trabajo. La formación profesional integral del SENA busca que el aprendiz trascienda el rol de “operador de #[i software]” para convertirse en un “solucionador de problemas” mediante el uso de la tecnología. Esta sección demuestra cómo las herramientas de Microsoft 365 convergen para dar respuesta a necesidades reales en el aprendizaje virtual, el trabajo remoto y la gestión de proyectos digitales.
         
       Separador
       #t_5_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -29,7 +29,7 @@
         .p-full-width
           .titulo-tercer-nivel.mb-5
             img.titulo-tercer-nivel__icon(src='@/assets/curso/bg/1.svg')
-            h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Escenario integrador de la aplicación de las herramientas complementarias
+            h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Escenario integrador
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-1.d-none.d-lg-block
               img(src='@/assets/curso/temas/t5/2.svg', alt='')
@@ -49,7 +49,7 @@
             .row(numero="2" titulo="Organización del equipo (contactos) ")
               .col-12
                 p.mb-0 Para asegurar una comunicación fluida, el gestor crea una lista de contactos llamada “Proyecto Web - Grupo 4”, incluyendo a los diseñadores, al programador y al instructor (como observador).
-            .row(numero="3" titulo="Planificación estratégica (calendario y notas) ")
+            .row(numero="3" titulo="Planificación estratégica (calendario) ")
               .col-12
                 p.mb-0 Utilizando el asistente para programación, el gestor revisa la disponibilidad de sus compañeros y programa una reunión de planeación inicial por Teams. Además, crea eventos de todo el día en el calendario compartido para marcar los hitos del proyecto: “Entrega de Wireframes”, “Pruebas de usabilidad” y “Lanzamiento a producción”.
 

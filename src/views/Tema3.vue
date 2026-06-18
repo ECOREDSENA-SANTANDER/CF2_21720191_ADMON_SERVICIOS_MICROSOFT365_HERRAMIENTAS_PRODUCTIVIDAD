@@ -42,7 +42,7 @@
         .col-sm-12.col-lg-1.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/3.svg', alt='')  
         .col-sm-12.col-lg-11
-            p.mb-0 Una de las operaciones más potentes para optimizar el trabajo y dar cumplimiento a la articulación pedagógica del manejo de la plataforma, es la creación de listas de contactos (anteriormente grupos de distribución personales). Esta función permite agrupar múltiples direcciones de correo electrónico bajo un único nombre o alias.
+            p.mb-0 Una de las operaciones más potentes para optimizar el trabajo y dar cumplimiento a la articulación pedagógica del manejo de la plataforma, es la creación de #[b listas de contactos] (anteriormente grupos de distribución personales). Esta función permite agrupar múltiples direcciones de correo electrónico bajo un único nombre o alias.
       p.mb-4(data-aos='fade-right') En lugar de escribir individualmente los correos electrónicos de veinte personas distintas cada vez que se necesita enviar una actualización de proyecto, el usuario redacta el mensaje dirigido a la lista consolidada (por ejemplo, “Equipo de Desarrollo Frontend”). La aplicación práctica de este principio reduce exponencialmente el riesgo de omitir a un miembro crucial en la cadena de comunicación, garantizando que el flujo de información sea simétrico y equitativo para todos los involucrados.
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
@@ -57,12 +57,12 @@
                 .bg-color-3.p-2.mb-3
                   h4.mb-0.text-white Ejemplo de aplicación en contextos reales
                 p.mb-0 Imaginemos una situación de diseño web donde un equipo de cinco aprendices SENA debe presentar semanalmente los avances de usabilidad de una plataforma a un comité evaluador conformado por tres instructores y dos expertos externos. El administrador de comunicaciones del equipo creará en su Outlook 365 una lista de contactos denominada “Comité Evaluación Web”.
-          p.mb-0 Durante las seis semanas del proyecto, todas las actas de reunión, los prototipos navegables y las solicitudes de retroalimentación se enviarán a esta lista. Si a mitad del proyecto se incorpora un nuevo instructor al comité, el aprendiz solo debe actualizar la lista de contactos añadiendo al nuevo miembro; en los envíos futuros, este recibirá la información automáticamente. Esto demuestra cómo el dominio técnico del software se traduce en una mejora tangible en la eficiencia de los procesos operativos de un entorno formativo profesional.
+          p.mb-0 Durante las seis semanas del proyecto, todas las actas de reunión, los prototipos navegables y las solicitudes de retroalimentación se enviarán a esta lista. Si a mitad del proyecto se incorpora un nuevo instructor al comité, el aprendiz solo debe actualizar la lista de contactos añadiendo al nuevo miembro; en los envíos futuros, este recibirá la información automáticamente. Esto demuestra cómo el dominio técnico del #[i software] se traduce en una mejora tangible en la eficiencia de los procesos operativos de un entorno formativo profesional.
 
 
       p.mb-5(data-aos='fade-right') Se invita al aprendiz a explorar este pódcast sobre la gestión estratégica de contactos y redes de colaboración. En este recurso, se analiza cómo el manejo técnico de agendas y listas de distribución en Outlook 365 optimiza el tiempo y garantiza una comunicación eficiente y profesional en entornos laborales y formativos.
 
-      img.mb-0.d-none.d-lg-block(src='@/assets/curso/temas/t3/6.svg')(data-aos='fade-right')
+      img.mb-0.d-none.d-lg-block(src='@/assets/curso/temas/t3/6.png')(data-aos='fade-right')
       .row.justify-content-center.g-0.bg-color-5.mb-5(data-aos='fade-right')
         .col-12
           .tarjeta.clr--pink.p-4.rounded-0.h-100

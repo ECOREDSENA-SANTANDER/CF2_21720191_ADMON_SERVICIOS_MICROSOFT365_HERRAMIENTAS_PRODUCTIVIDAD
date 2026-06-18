@@ -14,10 +14,10 @@
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/13.svg', alt='')
+              img(src='@/assets/curso/temas/t4/2.svg', alt='')
             .col-sm-12.col-lg-10
               p.mb-0 La administración eficiente del correo electrónico y los contactos constituye únicamente la primera fase del dominio de Microsoft Outlook 365. Para dar cumplimiento integral al resultado de aprendizaje y lograr una operatividad óptima en el marco de las organizaciones 4.0, es imperativo que el aprendiz domine las herramientas complementarias del ecosistema: el calendario, las tareas y las notas. Estas utilidades transforman la plataforma de un simple gestor de comunicaciones a un centro de mando unificado para la planificación estratégica, la ejecución de proyectos y la gestión del conocimiento personal e institucional.
-          p.mb-0 El abordaje pedagógico de estas herramientas exige comprender que el tiempo y la atención son recursos finitos. En entornos de formación virtual y trabajo remoto, la autogestión se convierte en una competencia transversal ineludible. Por lo tanto, el uso de estas funciones tecnológicas debe ir acompañado de la asimilación de metodologías de productividad, tales como el bloqueo de tiempo (time-blocking), la división del trabajo (work breakdown structure) y la captura ágil de información.
+          p.mb-0 El abordaje pedagógico de estas herramientas exige comprender que el tiempo y la atención son recursos finitos. En entornos de formación virtual y trabajo remoto, la autogestión se convierte en una competencia transversal ineludible. Por lo tanto, el uso de estas funciones tecnológicas debe ir acompañado de la asimilación de metodologías de productividad, tales como el bloqueo de tiempo (#[i time-blocking]), la división del trabajo (#[i work breakdown structure]) y la captura ágil de información.
         
       Separador
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -57,7 +57,7 @@
               .col-sm-12.col-lg-8
                 .bg-color-3.p-2.mb-4
                   h4.mb-0.text-white Aplicación en contextos educativos
-                p.mb-0 Un aprendiz que cursa un programa tecnológico virtual puede utilizar el calendario para estructurar su semana bajo la técnica de time-blocking. En lugar de tener una lista interminable de deberes, el estudiante configura citas recurrentes en su calendario de Outlook: los martes de 8:00 a. m. a 10:00 a. m. bloquea el espacio para “Estudio de material en plataforma”, los jueves a las 6:00 p. m. programa las “Sesiones sincrónicas con el instructor”, y los viernes reserva una hora para “Reunión de avance con el equipo de trabajo”. Al categorizar estos bloques con colores específicos, el aprendiz obtiene un mapa de calor visual de su esfuerzo académico, permitiéndole equilibrar su carga cognitiva y evitar el agotamiento (burnout).
+                p.mb-0 Un aprendiz que cursa un programa tecnológico virtual puede utilizar el calendario para estructurar su semana bajo la técnica de #[i time-blocking]. En lugar de tener una lista interminable de deberes, el estudiante configura citas recurrentes en su calendario de Outlook: los martes de 8:00 a. m. a 10:00 a. m. bloquea el espacio para “Estudio de material en plataforma”, los jueves a las 6:00 p. m. programa las “Sesiones sincrónicas con el instructor”, y los viernes reserva una hora para “Reunión de avance con el equipo de trabajo”. Al categorizar estos bloques con colores específicos, el aprendiz obtiene un mapa de calor visual de su esfuerzo académico, permitiéndole equilibrar su carga cognitiva y evitar el agotamiento (#[i burnout]).
       
       
       
@@ -80,7 +80,7 @@
 
       p.mb-3 Desde la dimensión pedagógica, la administración de tareas debe enseñarse bajo el principio de la “acción siguiente”. Una tarea no debe ser redactada como un proyecto abstracto (por ejemplo, “Hacer sitio web”), sino como una instrucción clara, medible y ejecutable (por ejemplo, “Diseñar el boceto de la página de inicio en formato móvil”).
 
-      p.mb-5 La plataforma permite dotar a cada tarea de atributos fundamentales para el seguimiento de proyectos: fecha de inicio, fecha de finalización, prioridad, estado de avance y asignación a un responsable específico. Al vincular tareas a eventos del calendario, se asegura que el tiempo se asigne correctamente y se evite la duplicación de esfuerzos.
+      p.mb-5 La plataforma permite dotar a cada tarea de atributos fundamentales para el seguimiento de proyectos: 
 
 
       SlyderF(columnas="col-lg-6 col-xl-4").mb-5
