@@ -326,7 +326,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Sandra Paola Morales Páez',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },

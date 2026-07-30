@@ -68,7 +68,7 @@
           .tarjeta.clr--pink.p-4.rounded-0.h-100
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-              texto="Pódcast: El arte de gestionar redes de colaboración"
+              texto="Pódcast: el arte de gestionar redes de colaboración"
               :audio="podcast"
           )
 
