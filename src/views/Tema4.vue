@@ -36,7 +36,7 @@
 
             .row(numero="2" titulo="Reunión")
               .col-12
-                p.mb-0 Es un evento que implica la convocatoria de otros participantes. Al crear una reunión, el sistema envía invitaciones formales, gestiona las confirmaciones de asistencia (RVP) y permite agregar enlaces para encuentros sincrónicos a través de Microsoft Teams.
+                p.mb-0 Es un evento que implica la convocatoria de otros participantes. Al crear una reunión, el sistema envía invitaciones formales, gestiona las confirmaciones de asistencia (#[i RVP]) y permite agregar enlaces para encuentros sincrónicos a través de Microsoft Teams.
 
             .row(numero="3" titulo="Evento de todo el día")
               .col-12
@@ -137,7 +137,7 @@
               img(src='@/assets/curso/temas/t4/14.svg', alt='')
             .col-sm-12.col-lg-10
               p.mb-0 La tercera herramienta complementaria fundamental es el sistema de notas. En la dinámica acelerada de las organizaciones modernas, las grandes ideas, las instrucciones rápidas y los acuerdos verbales suelen perderse si no se documentan inmediatamente. Outlook 365 integra funcionalidades de notas rápidas y se sincroniza profundamente con Microsoft OneNote, proporcionando un lienzo digital infinito para la captura y organización del conocimiento.
-          p.mb-0 Las notas digitales actúan como una memoria extendida. A diferencia de un documento de Word, que requiere una estructura formal, un título y un proceso de guardado en carpetas, las notas en Outlook están diseñadas para la fricción cero. Se pueden abrir con un solo clic, se guardan automáticamente en la nube y son fácilmente localizables gracias a los potentes motores de indexación de Microsoft, que incluso pueden leer texto dentro de imágenes (Reconocimiento óptico de caracteres - OCR).
+          p.mb-0 Las notas digitales actúan como una memoria extendida. A diferencia de un documento de Word, que requiere una estructura formal, un título y un proceso de guardado en carpetas, las notas en Outlook están diseñadas para la fricción cero. Se pueden abrir con un solo clic, se guardan automáticamente en la nube y son fácilmente localizables gracias a los potentes motores de indexación de Microsoft, que incluso pueden leer texto dentro de imágenes (Reconocimiento óptico de caracteres - #[i OCR]).
       p.mb-0 Una aplicación pedagógica vital de esta herramienta es la creación de actas de reunión dinámicas. Cuando un grupo de aprendices asiste a una sesión de asesoría con su instructor, pueden abrir un bloc de notas compartido directamente desde la invitación del calendario en Outlook. Durante la reunión, todos los miembros del equipo pueden escribir simultáneamente, pegando capturas de pantalla de los errores de código, registrando las recomendaciones del instructor y documentando los acuerdos. Al finalizar la reunión, estas notas quedan vinculadas perpetuamente al evento del calendario, creando un repositorio histórico del proyecto al que se puede acudir meses después para comprender por qué se tomó una decisión de diseño específica.
         
 

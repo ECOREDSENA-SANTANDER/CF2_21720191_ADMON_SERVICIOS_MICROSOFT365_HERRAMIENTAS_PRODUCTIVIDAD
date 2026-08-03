@@ -57,7 +57,7 @@
         .col-sm-12.col-lg-7
           p.mb-4 La bandeja de entrada de Outlook 365 es el punto de convergencia de todas las comunicaciones. Sin embargo, su uso ineficiente suele convertirla en un elemento de distracción constante. La gestión avanzada implica la aplicación de procesos lógicos para procesar la información de entrada, categorizarla y actuar sobre ella. 
 
-          p.mb-0 Para lograr una administración óptima, se deben implementar estrategias pedagógicas de organización digital, tales como el método de “Inbox Zero” (bandeja de entrada a cero) adaptado a las necesidades operativas. Este método no implica tener la bandeja siempre vacía por obsesión, sino procesar cada elemento de manera consciente. Para ello, Microsoft Outlook 365 ofrece funcionalidades técnicas que materializan estos procesos cognitivos de clasificación:
+          p.mb-0 Para lograr una administración óptima, se deben implementar estrategias pedagógicas de organización digital, tales como el método de “<i>Inbox Zero</i>” (bandeja de entrada a cero) adaptado a las necesidades operativas. Este método no implica tener la bandeja siempre vacía por obsesión, sino procesar cada elemento de manera consciente. Para ello, Microsoft Outlook 365 ofrece funcionalidades técnicas que materializan estos procesos cognitivos de clasificación:
 
       .tarjeta.bg-fondo-1.p-5.mb-5(data-aos='fade-right')
         SlyderA(tipo="b")

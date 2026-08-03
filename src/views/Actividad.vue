@@ -210,7 +210,7 @@ export default {
         {
           id: 6,
           texto:
-            '¿Cuál es el propósito del método Inbox Zero adaptado a Outlook 365?',
+            '¿Cuál es el propósito del método <i>Inbox Zero</i> adaptado a Outlook 365?',
           imagen: '@/assets/actividad/imagen6.png',
           barajarRespuestas: true,
           opciones: [
@@ -242,7 +242,7 @@ export default {
           mensaje_correcto:
             'Demuestra un adecuado dominio de la organización consciente de la bandeja de entrada y del procesamiento estratégico del correo.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con Inbox Zero y la gestión avanzada de la bandeja de entrada.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con <i>Inbox Zero</i> y la gestión avanzada de la bandeja de entrada.',
         },
         {
           id: 7,
