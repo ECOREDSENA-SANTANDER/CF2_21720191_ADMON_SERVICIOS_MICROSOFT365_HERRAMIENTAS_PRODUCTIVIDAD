@@ -10,9 +10,9 @@
       h1 Introducción
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/intro/1.png', alt='')
+        img(src='@/assets/curso/intro/1.png')
       .col-sm-12.col-lg-1.d-none.d-lg-block
-        img(src='@/assets/curso/intro/2.svg', alt='')
+        img(src='@/assets/curso/intro/2.svg')
       .col-sm-12.col-lg-6
         p.mb-0 La transformación digital contemporánea exige que los profesionales y aprendices no solo dominen los conceptos teóricos de su área de especialidad, sino que adquieran competencias transversales robustas en el manejo de la información y la comunicación. El curso virtual "Administración de servicios Microsoft 365 y herramientas de productividad para las organizaciones 4.0" se diseña con el propósito de responder a esta necesidad imperante. A través del estudio de este componente formativo, el aprendiz se apropiará de los saberes necesarios para emplear de manera óptima el correo electrónico Microsoft Outlook 365 y sus herramientas complementarias, trascendiendo el uso instrumental básico para alcanzar una gestión estratégica, crítica y eficiente del entorno de trabajo digital. El dominio de estas plataformas permitirá al participante organizar, clasificar y priorizar flujos de información complejos, habilidades indispensables para el desempeño exitoso en los dinámicos escenarios laborales actuales.
 

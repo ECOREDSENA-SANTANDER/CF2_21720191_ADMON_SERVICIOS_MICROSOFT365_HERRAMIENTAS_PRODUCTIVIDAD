@@ -10,11 +10,11 @@
        
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/1.png', alt='')
+          img(src='@/assets/curso/temas/t4/1.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/2.svg', alt='')
+              img(src='@/assets/curso/temas/t4/2.svg')
             .col-sm-12.col-lg-10
               p.mb-0 La administración eficiente del correo electrónico y los contactos constituye únicamente la primera fase del dominio de Microsoft Outlook 365. Para dar cumplimiento integral al resultado de aprendizaje y lograr una operatividad óptima en el marco de las organizaciones 4.0, es imperativo que el aprendiz domine las herramientas complementarias del ecosistema: el calendario, las tareas y las notas. Estas utilidades transforman la plataforma de un simple gestor de comunicaciones a un centro de mando unificado para la planificación estratégica, la ejecución de proyectos y la gestión del conocimiento personal e institucional.
           p.mb-0 El abordaje pedagógico de estas herramientas exige comprender que el tiempo y la atención son recursos finitos. En entornos de formación virtual y trabajo remoto, la autogestión se convierte en una competencia transversal ineludible. Por lo tanto, el uso de estas funciones tecnológicas debe ir acompañado de la asimilación de metodologías de productividad, tales como el bloqueo de tiempo (#[i time-blocking]), la división del trabajo (#[i work breakdown structure]) y la captura ágil de información.
@@ -27,7 +27,7 @@
       p.mb-5 Para aprovechar esta herramienta, es fundamental distinguir conceptualmente entre tres elementos operativos dentro de la plataforma: citas, reuniones y eventos.
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/3.png', alt='')
+          img(src='@/assets/curso/temas/t4/3.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="Cita")
@@ -48,12 +48,12 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/4.png', alt='')
+          img(src='@/assets/curso/temas/t4/4.png')
         .col-sm-12.col-lg-9
           .bg-color-2.p-5.br-2.mb-4
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-4.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t4/5.svg', alt='')
+                img(src='@/assets/curso/temas/t4/5.svg')
               .col-sm-12.col-lg-8
                 .bg-color-3.p-2.mb-4
                   h4.mb-0.text-white Aplicación en contextos educativos
@@ -87,7 +87,7 @@
         .tarjeta.bg-fondo-2.p-4.br-2
           .row.justify-content-center.mb-3
             .col-6.d-none.d-lg-block
-              img.m-auto(src='@/assets/curso/temas/t4/7.svg' alt='')
+              img.m-auto(src='@/assets/curso/temas/t4/7.svg')
           h2.text-center Fechas de vencimiento y recordatorios
           p.text-center Garantizan el cumplimiento de los cronogramas.
 
@@ -95,21 +95,21 @@
         .tarjeta.bg-fondo-2.p-4.br-2
           .row.justify-content-center.mb-3
             .col-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/8.svg' alt='')
+              img(src='@/assets/curso/temas/t4/8.svg')
           h2.text-center Estado de progreso
           p.text-center Permite marcar la tarea como “No comenzada”, “En curso”, “Completada” o “A la espera de otra persona”.
         
         .tarjeta.bg-fondo-2.p-4.br-2
           .row.justify-content-center.mb-3
             .col-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/9.svg' alt='')
+              img(src='@/assets/curso/temas/t4/9.svg')
           h2.text-center Niveles de prioridad
           p.text-center Clasifica las actividades en urgentes o rutinarias
 
         .tarjeta.bg-fondo-2.p-4.br-2
           .row.justify-content-center.mb-3
             .col-6.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/10.svg' alt='')
+              img(src='@/assets/curso/temas/t4/10.svg')
           h2.text-center Asignación
           p.text-center En un entorno colaborativo, una tarea puede ser delegada a otro miembro del equipo, generando una notificación automática y trazabilidad sobre quién es el responsable de la ejecución.
 
@@ -121,7 +121,7 @@
                 h4.mb-0.text-white Caso de uso vinculado a formación profesional
               p.mb-0 Durante la fase de ejecución de un proyecto formativo relacionado con la instalación de redes, el líder del grupo utiliza la herramienta de tareas de Outlook para desglosar el trabajo. Crea una tarea principal llamada “Adquisición de materiales” y establece subtareas: “Cotizar cable UTP”, “Comprar conectores RJ45” y “Verificar disponibilidad de herramientas de ponchado”. Cada subtarea tiene asignado a un aprendiz diferente con una fecha límite estricta previa a la práctica presencial. El instructor, si forma parte del entorno de trabajo compartido, puede visualizar este tablero, evaluar la capacidad de organización del equipo y realizar intervenciones tempranas si detecta que las fechas de vencimiento se están incumpliendo.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img.w-75.m-auto(src='@/assets/curso/temas/t4/12.svg', alt='')
+              img.w-75.m-auto(src='@/assets/curso/temas/t4/12.svg')
 
 
       
@@ -130,11 +130,11 @@
         h2 4.3 Integración de notas digitales para la captura ágil de conocimiento
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/13.png', alt='')
+          img(src='@/assets/curso/temas/t4/13.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/14.svg', alt='')
+              img(src='@/assets/curso/temas/t4/14.svg')
             .col-sm-12.col-lg-10
               p.mb-0 La tercera herramienta complementaria fundamental es el sistema de notas. En la dinámica acelerada de las organizaciones modernas, las grandes ideas, las instrucciones rápidas y los acuerdos verbales suelen perderse si no se documentan inmediatamente. Outlook 365 integra funcionalidades de notas rápidas y se sincroniza profundamente con Microsoft OneNote, proporcionando un lienzo digital infinito para la captura y organización del conocimiento.
           p.mb-0 Las notas digitales actúan como una memoria extendida. A diferencia de un documento de Word, que requiere una estructura formal, un título y un proceso de guardado en carpetas, las notas en Outlook están diseñadas para la fricción cero. Se pueden abrir con un solo clic, se guardan automáticamente en la nube y son fácilmente localizables gracias a los potentes motores de indexación de Microsoft, que incluso pueden leer texto dentro de imágenes (Reconocimiento óptico de caracteres - #[i OCR]).

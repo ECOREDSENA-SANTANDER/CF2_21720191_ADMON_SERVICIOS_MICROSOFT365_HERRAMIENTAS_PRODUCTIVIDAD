@@ -32,14 +32,14 @@
             h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Escenario integrador
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-1.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t5/2.svg', alt='')
+              img(src='@/assets/curso/temas/t5/2.svg')
             .col-sm-12.col-lg-11
               h4 Desarrollo de un sitio web corporativo
               p.mb-0 Un equipo de cuatro aprendices del área de diseño e integración multimedia recibe, mediante un correo electrónico de su instructor, los requerimientos técnicos para el proyecto final: diseñar un portal web accesible para una empresa local.
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t5/3.png', alt='')
+          img(src='@/assets/curso/temas/t5/3.png')
         .col-sm-12.col-lg-6
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="Recepción y procesamiento (correo y tareas) ")
@@ -66,11 +66,11 @@
       
       .row.justify-content-center.mb-4(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t5/4.png', alt='')
+          img(src='@/assets/curso/temas/t5/4.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t5/5.svg', alt='')
+              img(src='@/assets/curso/temas/t5/5.svg')
             .col-sm-12.col-lg-10
               p.mb-4 El uso de estas plataformas también transforma la didáctica y la relación entre el instructor y el aprendiz. El ecosistema Microsoft 365 facilita el diseño de estrategias pedagógicas basadas en el aprendizaje autónomo, colaborativo y basado en proyectos. 
 

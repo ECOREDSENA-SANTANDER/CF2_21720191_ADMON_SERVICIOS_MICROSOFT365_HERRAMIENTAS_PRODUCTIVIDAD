@@ -9,7 +9,7 @@
         
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/1.svg', alt='')  
+          img(src='@/assets/curso/temas/t2/1.svg')  
         .col-sm-12.col-lg-11
           p.mb-0 Para alcanzar el resultado de aprendizaje orientado a emplear de manera óptima Microsoft Outlook 365, es imperativo abordar la plataforma no como un repositorio de mensajes, sino como un sistema dinámico de gestión de comunicaciones profesionales. Esta sección desglosa analítica y pedagógicamente los saberes de concepto y proceso necesarios para la administración integral de la bandeja de entrada y la configuración del entorno de trabajo.
         
@@ -20,23 +20,23 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t2/2.png', alt='')
+          img(src='@/assets/curso/temas/t2/2.png')
         .col-sm-12.col-lg-7.bg-color-1.mx-0.px-0
-            p.mb-0.text-white.pg-cus-1.mg-cus-1 Un mensaje de correo electrónico estructurado se compone de varios elementos críticos: el asunto (que debe ser descriptivo y conciso, actuando como el título de un documento), el saludo formal, el cuerpo del mensaje (organizado en párrafos cortos y, si es necesario, listas de viñetas para facilitar la lectura escaneada), y la firma corporativa. En el contexto de la educación virtual, la capacidad del aprendiz para redactar correos precisos impacta directamente en la calidad de la tutoría que recibe. Un correo cuyo asunto indique “Ayuda” es ineficiente; por el contrario, un asunto como “Consulta sobre la Actividad 2 de Diseño Web - Error en la carga de servidor local” proporciona contexto inmediato, permitiendo al instructor o al equipo de trabajo priorizar y resolver la incidencia con mayor celeridad.
+            p.mb-0.text-white.pg-cus-1.mg-cus-1 Un mensaje de correo electrónico estructurado se compone de varios elementos críticos: el asunto (que debe ser descriptivo y conciso, actuando como el título de un documento), el saludo formal, el cuerpo del mensaje (organizado en párrafos cortos y, si es necesario, listas de viñetas para facilitar la lectura escaneada) y la firma corporativa. En el contexto de la educación virtual, la capacidad del aprendiz para redactar correos precisos impacta directamente en la calidad de la tutoría que recibe. Un correo cuyo asunto indique “Ayuda” es ineficiente; por el contrario, un asunto como “Consulta sobre la Actividad 2 de Diseño Web - Error en la carga de servidor local” proporciona contexto inmediato, permitiendo al instructor o al equipo de trabajo priorizar y resolver la incidencia con mayor celeridad.
 
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/3.png', alt='')
+          img(src='@/assets/curso/temas/t2/3.png')
         .col-sm-12.col-lg-9
           .bg-color-2.p-5.br-2
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-4.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t2/4.svg', alt='')
+                img(src='@/assets/curso/temas/t2/4.svg')
               .col-sm-12.col-lg-8
                 .bg-color-3.p-2.mb-3
                   h4.mb-0.text-white Ejemplo aplicado a la formación profesional
-                p.mb-0 En un programa de formación técnica en desarrollo de #[i software], un grupo de aprendices debe entregar el avance de un sitio web. Al utilizar Outlook 365, el líder del equipo redacta un correo dirigido al instructor (campo “Para”), pone en copia a los miembros de su equipo para mantenerlos informados de la entrega (campo “CC”), y estructura el cuerpo del mensaje detallando los logros del #[i sprint] y los enlaces al repositorio del código. Este uso reflexivo de los campos de destinatario no solo cumple con el envío de la tarea, sino que evidencia habilidades de comunicación organizacional y trabajo colaborativo, competencias altamente demandadas en el sector tecnológico.
+                p.mb-0 En un programa de formación técnica en desarrollo de #[i software], un grupo de aprendices debe entregar el avance de un sitio web. Al utilizar Outlook 365, el líder del equipo redacta un correo dirigido al instructor (campo “Para”), pone en copia a los miembros de su equipo para mantenerlos informados de la entrega (campo “CC”) y estructura el cuerpo del mensaje detallando los logros del #[i sprint] y los enlaces al repositorio del código. Este uso reflexivo de los campos de destinatario no solo cumple con el envío de la tarea, sino que evidencia habilidades de comunicación organizacional y trabajo colaborativo, competencias altamente demandadas en el sector tecnológico.
 
 
 
@@ -53,7 +53,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/5.png', alt='')
+          img(src='@/assets/curso/temas/t2/5.png')
         .col-sm-12.col-lg-7
           p.mb-4 La bandeja de entrada de Outlook 365 es el punto de convergencia de todas las comunicaciones. Sin embargo, su uso ineficiente suele convertirla en un elemento de distracción constante. La gestión avanzada implica la aplicación de procesos lógicos para procesar la información de entrada, categorizarla y actuar sobre ella. 
 
@@ -66,20 +66,20 @@
               h4.mb-5.text-white Estructura de carpetas y subcarpetas
               p.mb-0.text-white Permite la clasificación jerárquica de la información. Un aprendiz no debe acumular todos los mensajes en la bandeja de entrada. Debe crear carpetas por proyectos, asignaturas o niveles de prioridad. Esta acción técnica refleja la capacidad de taxonomía mental del estudiante.
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/6.png', alt='')
+              img(src='@/assets/curso/temas/t2/6.png')
 
           .row.justify-content-center.mb-0.align-items-center
             .col-sm-12.col-lg-5
               h4.mb-5.text-white Categorías y etiquetas por código de colores
               p.mb-0.text-white Aportan una capa visual de clasificación transversal a las carpetas. Por ejemplo, un correo puede estar guardado en la carpeta “Proyecto final”, pero tener una etiqueta roja de “Atención urgente”. Esta herramienta reduce significativamente el tiempo de búsqueda y procesamiento visual.
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/7.png', alt='')
+              img(src='@/assets/curso/temas/t2/7.png')
           .row.justify-content-center.mb-0.align-items-center
             .col-sm-12.col-lg-5
               h4.mb-5.text-white Reglas de automatización y pasos rápidos
-              p.mb-0.text-white constituyen el pináculo de la gestión eficiente. Una regla es una instrucción lógica condicional (si sucede X, entonces haz Y) que el sistema ejecuta automáticamente sin intervención humana.
+              p.mb-0.text-white Constituyen el pináculo de la gestión eficiente. Una regla es una instrucción lógica condicional (si sucede X, entonces haz Y) que el sistema ejecuta automáticamente sin intervención humana.
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/8.png', alt='')
+              img(src='@/assets/curso/temas/t2/8.png')
 
 
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
@@ -93,7 +93,7 @@
             .col-sm-12.col-lg-8
               .row.justify-content-center.mb-5.align-items-center
                 .col-sm-12.col-lg-2.d-none.d-lg-block
-                  img.w-75.m-auto(src='@/assets/curso/temas/t2/10.svg', alt='')
+                  img.w-75.m-auto(src='@/assets/curso/temas/t2/10.svg')
                 .col-sm-12.col-lg-10
                     p.mb-0 Supóngase que un aprendiz está gestionando las comunicaciones para el diseño de la intranet de una pyme. A diario recibe notificaciones del servidor de alojamiento web, correos del cliente solicitando cambios de diseño y mensajes de sus compañeros programadores. Para evitar la infoxicación, el aprendiz crea las siguientes reglas de automatización en Outlook 365:
             
@@ -109,7 +109,7 @@
               p.mb-0 A través de este proceso, el estudiante no solo aprende a usar una función de #[i software], sino que asimila conceptos de automatización de flujos de trabajo (#[i workflow]), optimizando radicalmente su productividad.
 
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/9.svg', alt='')
+              img(src='@/assets/curso/temas/t2/9.svg')
 
 
       .row.justify-content-center.mb-0(data-aos='fade-right')
@@ -127,11 +127,11 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/12.png', alt='')
+          img(src='@/assets/curso/temas/t2/12.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/13.svg', alt='')
+              img(src='@/assets/curso/temas/t2/13.svg')
             .col-sm-12.col-lg-10
               p.mb-0 El entorno de trabajo virtual debe adaptarse a las necesidades ergonómicas y funcionales del usuario, y no al contrario. La configuración de Microsoft Outlook 365 trasciende el aspecto estético, impactando en la eficiencia operativa. Ajustar la vista de lectura (panel a la derecha o en la parte inferior), establecer la densidad de visualización de los mensajes y configurar las notificaciones de escritorio son acciones que permiten personalizar la experiencia de usuario (UX) para reducir la fatiga visual y cognitiva durante las jornadas de formación o trabajo remoto.
           p.mb-0 Un aspecto crítico de la automatización y la proyección de identidad profesional es la #[b firma de correo electrónico]. Una firma corporativa bien diseñada funciona como una tarjeta de presentación digital estandarizada que otorga credibilidad e institucionalidad a las comunicaciones. Pedagógicamente, instruir al aprendiz en la creación de una firma que contenga su nombre completo, programa de formación, ficha asignada y datos de contacto, fomenta la formalidad y el respeto por los canales institucionales.

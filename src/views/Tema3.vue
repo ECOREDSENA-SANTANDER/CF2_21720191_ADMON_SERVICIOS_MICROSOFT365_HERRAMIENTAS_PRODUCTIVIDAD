@@ -29,7 +29,7 @@
               p.mb-0 Además, Outlook 365 se integra estrechamente con el directorio activo de la organización (en el caso de aprendices, el directorio global del SENA). Esto permite realizar búsquedas rápidas de instructores o personal administrativo sin necesidad de haberlos agregado previamente de forma manual, optimizando los tiempos de búsqueda y fomentando la interconectividad institucional.
 
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img.w-75.m-auto(src='@/assets/curso/temas/t3/2.svg', alt='')
+              img.w-75.m-auto(src='@/assets/curso/temas/t3/2.svg')
 
 
 
@@ -40,19 +40,19 @@
       
       .row.justify-content-center.mb-4.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-1.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/3.svg', alt='')  
+          img(src='@/assets/curso/temas/t3/3.svg')  
         .col-sm-12.col-lg-11
             p.mb-0 Una de las operaciones más potentes para optimizar el trabajo y dar cumplimiento a la articulación pedagógica del manejo de la plataforma, es la creación de #[b listas de contactos] (anteriormente grupos de distribución personales). Esta función permite agrupar múltiples direcciones de correo electrónico bajo un único nombre o alias.
       p.mb-4(data-aos='fade-right') En lugar de escribir individualmente los correos electrónicos de veinte personas distintas cada vez que se necesita enviar una actualización de proyecto, el usuario redacta el mensaje dirigido a la lista consolidada (por ejemplo, “Equipo de Desarrollo Frontend”). La aplicación práctica de este principio reduce exponencialmente el riesgo de omitir a un miembro crucial en la cadena de comunicación, garantizando que el flujo de información sea simétrico y equitativo para todos los involucrados.
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/4.png', alt='')
+          img(src='@/assets/curso/temas/t3/4.png')
         .col-sm-12.col-lg-9
           .bg-color-2.p-5.br-2.mb-4
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-4.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t3/5.svg', alt='')
+                img(src='@/assets/curso/temas/t3/5.svg')
               .col-sm-12.col-lg-8
                 .bg-color-3.p-2.mb-3
                   h4.mb-0.text-white Ejemplo de aplicación en contextos reales

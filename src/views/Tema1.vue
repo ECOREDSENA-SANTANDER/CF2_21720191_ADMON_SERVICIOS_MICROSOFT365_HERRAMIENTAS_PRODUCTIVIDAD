@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 1
         h1 El ecosistema de Microsoft 365 en las organizaciones 4.0
-      img.mb-5(src='@/assets/curso/temas/t1/1.png', alt='')(data-aos='fade-right')  
+      img.mb-5(src='@/assets/curso/temas/t1/1.png')(data-aos='fade-right')  
       p.mb-0(data-aos='fade-right') La cuarta revolución industrial, o Industria 4.0, ha redefinido los paradigmas de producción, comunicación y educación a nivel global. En este contexto, el #[i software] ha evolucionado de ser una herramienta instalada de manera aislada en un equipo físico a convertirse en un ecosistema interconectado en la nube. Comprender esta transición es el primer paso para dominar las herramientas de productividad contemporáneas y alinearlas con los resultados de aprendizaje proyectados para la formación profesional integral. 
       
       
@@ -18,11 +18,11 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/2.png', alt='')
+          img(src='@/assets/curso/temas/t1/2.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-2
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/3.svg', alt='')
+              img(src='@/assets/curso/temas/t1/3.svg')
             .col-sm-12.col-lg-10
               p.mb-0 Históricamente, el uso de procesadores de texto, hojas de cálculo y clientes de correo electrónico se realizaba de forma local y fragmentada. El usuario debía guardar sus archivos en medios de almacenamiento físicos y el correo electrónico funcionaba principalmente como un buzón pasivo de recepción de mensajes. Sin embargo, el ecosistema de Microsoft 365 representa un salto cualitativo hacia la productividad en la nube, donde la colaboración en tiempo real, la sincronización en múltiples dispositivos y la integración de servicios son la norma.
           p.mb-0 En términos pedagógicos, este cambio de paradigma es equivalente a pasar de un modelo de estudio individual en una biblioteca cerrada a un espacio de cocreación en un laboratorio abierto. Microsoft Outlook 365, eje central de este componente, ya no opera como un simple lector de correspondencia, sino como un centro de mando unificado. Desde esta plataforma, un profesional puede revisar un mensaje, convertirlo inmediatamente en una tarea asignable, programar una reunión en el calendario con los actores implicados y vincular un documento compartido para su revisión conjunta. 
